@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @SultonovDilshod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SultonovDilshod/SultonovDilshod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web programming
+- 🌱 I’m currently learning python and django
+- 💞️ I’m looking to collaborate on make web project after 6 months. since that time I will be redy for it.
+- 📫 You can find me this telegram account @SultonovDilshod
