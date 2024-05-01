@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SultonovDilshod
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on make web project after 6 months. since that time I will be redy for it.
-- 📫 You can find me this telegram account @SultonovDilshod
+- 👋 Hi, I’m Dilshod. I am from Uzbekistan, Samarkhand. Currently I live in Tashkent
+- 👀 I’m interested in NLP and untill this time i have complate a couple of AI project successfully.
+- 🌱 I’m currently learning Mathematic statistics and OCR technology
+- 💞️ I’m looking to collaborate on make AI project after 6 months.
+- 📫 You can find me this telegram account @mr_sultonov_d
